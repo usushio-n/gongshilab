@@ -1,3 +1,4 @@
 # gongshilab
 龚诗生成器
-!(./1.png)
+![史](./images/1.png)
+
